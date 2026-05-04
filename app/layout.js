@@ -1,0 +1,1 @@
+export const metadata={title:'AURA BI Dashboard'};export default function RootLayout({children}){return <html><body style={{fontFamily:'Arial',margin:0,background:'#f1f5f9'}}>{children}</body></html>}
